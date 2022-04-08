@@ -42,5 +42,7 @@
 .header__right {
     display: flex;
     flex: 0.2;
+    padding-left: 50px;
+    align-items: center;
 }
 
